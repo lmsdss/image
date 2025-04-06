@@ -5,7 +5,7 @@
 
 
 <div align="center">
-  <img src="scaling.png" alt="Image 2" style="width: 900px; margin: 0 auto;">
+  <img src="vlm.png" alt="Image 2" style="width: 900px; margin: 0 auto;">
 </div>
 </div>
 
